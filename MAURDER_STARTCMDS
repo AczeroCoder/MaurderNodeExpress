@@ -1,1 +1,1 @@
-npx nodemon app.js
+sudo npx nodemon app.js
